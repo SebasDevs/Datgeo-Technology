@@ -63,3 +63,9 @@ Obtiene URLs para subir fotos: /signed-url
 Sube fotos a S3: Método PUT
 
 Usa API Key (x-api-key) en todas las solicitudes, excepto /health-check.
+
+## APK
+
+El APK de la aplicación está disponible para su descarga:
+
+- [Descargar APK](app-release.apk)
